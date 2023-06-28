@@ -145,7 +145,7 @@ h1 {
 @media (max-width: 768px) {
   .container,
   .container2 {
-    max-width: 100%; /* Ancho completo en dispositivos móviles */
+    max-width: 98%; /* Ancho completo en dispositivos móviles */
   }
   
 }
