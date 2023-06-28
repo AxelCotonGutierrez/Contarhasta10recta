@@ -141,3 +141,11 @@ h1 {
 #play-again-button:hover {
   background-color: #3367d6;
 }
+
+@media (max-width: 768px) {
+  .container,
+  .container2 {
+    max-width: 90%; /* Ancho completo en dispositivos móviles */
+  }
+  
+}
