@@ -1,6 +1,6 @@
 # Contar hasta 10 usando la recta numérica
 
-![Juego de la recta numérica](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar10/jcontar10rm.jpg)
+![Juego de la recta numérica](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/04JContar10/jcontar10rm.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
