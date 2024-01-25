@@ -188,12 +188,12 @@ h1 {
 .number {
   width: 20px; 
   height: 20px; 
-  font-size: 12px; 
+  font-size: 15px; 
   margin-top: 7.5px; 
 }
 
 .number:before {
-  top: -10.5px; 
+  top: -13.5px; 
   height: 15px; 
 }
 
